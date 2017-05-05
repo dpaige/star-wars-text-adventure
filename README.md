@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
 
 ## How to use this template
@@ -24,3 +25,7 @@ $ ionic run ios
 
 Substitute ios for android if not on a Mac.
 
+=======
+# star-wars-text-adventure
+Star Wars themed text adventure game using the SWAPI (the Star Wars API)
+>>>>>>> d27dc4afee69d3b1e5eb56aa7ceeef36639042fd
